@@ -24,10 +24,16 @@ State of Remote Work Report
 
 Methods
 Descriptive Analysis: Explore job availability and industry trends over time.
+
 Comparative Analysis: Compare skill demand for remote and in-office roles using job postings and skill requirements.
+
 Regional Analysis: Assess remote work trends by region and demographic group using geographic and census data.
+
 Visualization: Create graphs and charts to illustrate trends in job availability, skill demand, and industry growth.
+
 Survey Analysis (Optional): Complement findings with survey data on productivity and satisfaction.
+
+
 Key Insights
 Industries experiencing the highest growth in remote job opportunities.
 Regional and demographic disparities in remote work trends.
